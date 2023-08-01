@@ -1,1 +1,1 @@
-My first readme
+Blue for life
